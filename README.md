@@ -77,7 +77,4 @@ Test file deleted.
 - **Large File Size**:
   - Ensure the drive has enough free space for the test file.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
